@@ -1,0 +1,20 @@
+.ingredients {
+    border: 10px solid #fcbc1c;
+    display:inline-block;
+}
+
+.filling {
+
+    position: relative;
+}
+
+.image {
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.image img {
+    width: 400px;
+    height: 400px;
+}
